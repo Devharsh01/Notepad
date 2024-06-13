@@ -1,1 +1,1 @@
-This is a basic project, built in the starting phase of my learning cycle.
+This is a basic python project that I built during the starting phase of my learning.
